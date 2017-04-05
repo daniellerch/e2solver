@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/3/trunk/src
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/src/random.h
+END
+algo.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/trunk/src/algo.h
+END
+f.h
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/src/f.h
+END
+main_v1.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/main_v1.c
+END
+main_v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/main_v2.c
+END
+main_v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/main_v3.c
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/src/board.h
+END
+main_v4.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/main_v4.c
+END
+energy.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/energy.h
+END
+main_v5.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/src/main_v5.c
+END
+match.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/src/match.h
+END
+tile.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/trunk/src/tile.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/src/input.h
+END
+rotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/src/rotation.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/src/output.h
+END
+e2.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/src/e2.h
+END
